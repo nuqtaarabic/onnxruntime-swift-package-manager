@@ -30,3 +30,10 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## Nuqta mirror
+
+Microsoft's repository is no longer on GitHub. This is a copy of its last
+release (1.24.2, commit b7fb7f7) for the Nuqta Arabic iOS app. The only change
+is that the two binary archives download from Nuqta's CDN; they are the same
+files, with the same checksums. MIT licence, as upstream.
